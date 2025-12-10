@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/andrewtong0/WhiteElephantSite2025/static/css/main.f3456733.css",
-    "main.js": "/andrewtong0/WhiteElephantSite2025/static/js/main.35f3f7b4.js",
+    "main.js": "/andrewtong0/WhiteElephantSite2025/static/js/main.ae51a1b5.js",
     "static/js/453.117b0875.chunk.js": "/andrewtong0/WhiteElephantSite2025/static/js/453.117b0875.chunk.js",
     "index.html": "/andrewtong0/WhiteElephantSite2025/index.html",
     "main.f3456733.css.map": "/andrewtong0/WhiteElephantSite2025/static/css/main.f3456733.css.map",
-    "main.35f3f7b4.js.map": "/andrewtong0/WhiteElephantSite2025/static/js/main.35f3f7b4.js.map",
+    "main.ae51a1b5.js.map": "/andrewtong0/WhiteElephantSite2025/static/js/main.ae51a1b5.js.map",
     "453.117b0875.chunk.js.map": "/andrewtong0/WhiteElephantSite2025/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3456733.css",
-    "static/js/main.35f3f7b4.js"
+    "static/js/main.ae51a1b5.js"
   ]
 }
